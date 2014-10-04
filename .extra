@@ -1,4 +1,2 @@
 git config --global user.name "David Saenz Tagarro"
 git config --global user.email david.saenz.tagarro@gmail.com
-
-hg --config ui.username="David Saenz Tagarro <david.saenz.tagarro@gmail.com>"
