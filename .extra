@@ -1,2 +1,4 @@
 git config --global user.name "David Saenz Tagarro"
 git config --global user.email david.saenz.tagarro@gmail.com
+
+export JAVA_HOME=`/usr/libexec/java_home -v 1.7`
